@@ -1,5 +1,4 @@
 <h3 align="center">Bachelor Thesis</h3>
-![vrije_universiteit_amsterdam](https://wwwen.uni.lu/var/storage/images/media/images/lcl_images/vrije_universiteit_amsterdam/1384644-1-fre-FR/vrije_universiteit_amsterdam.png)
 <h1 align="center">Humanoid Robot Control from Human Joint Angles via 2D Camera</h1>
 
 ---
