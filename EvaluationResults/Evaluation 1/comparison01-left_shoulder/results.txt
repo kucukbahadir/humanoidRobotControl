@@ -1,0 +1,13 @@
+CMU Panoptic Range of Motion Dataset
+Video name: f171204_pose1
+Frames between: 900 and 1000 
+
+
+Dimension: XY
+Root Mean Square Error: 2.7368
+Standard Deviation: 1.3334
+
+Dimension: YZ
+Root Mean Square Error: 7.9139
+Standard Deviation: 5.602
+
