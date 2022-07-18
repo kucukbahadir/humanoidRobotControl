@@ -21,6 +21,10 @@ The goal of this research is to investigate how feasible it is to operate a huma
 - Interface
 - Ground truth angle comparison results
 - Experiment results
+
+## Packages
+- Please see requirements.txt
+
 ## Installation
 - Programming language: Python3 (recommended version is 3.7 or above)
 - Clone the repository with
@@ -147,5 +151,3 @@ Our approach gives an output of JSON file and use this output angles in humanoid
   }
 }
 ```
-
-## Additional Info
