@@ -36,7 +36,7 @@ def get_head_positions(image, results, angle_type, show_text=True):
 
     if results.multi_face_landmarks :
         for face_landmarks in results.multi_face_landmarks :
-            drawing_spec = drawing_mp.DrawingSpec(thickness=1.2, circle_radius=1.2)
+            drawing_spec = drawing_mp.DrawingSpec(thickness=1, circle_radius=1)
 
             for idx , landmark in enumerate(face_landmarks.landmark) :
                 # borders of head mesh
